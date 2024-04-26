@@ -6,9 +6,9 @@ https://github.com/Krupaparmar30/exam_e_commerce/assets/149374671/aa321d1b-4812-
 
 
 <P>
-<img src="https://github.com/Krupaparmar30/exam_e_commerce/assets/149374671/aed84799-4655-4ccf-aaed-7678bc9ea104">
-<img src="https://github.com/Krupaparmar30/exam_e_commerce/assets/149374671/b1267a49-54e2-4d37-ac76-8eb96351126d">
-<img src="https://github.com/Krupaparmar30/exam_e_commerce/assets/149374671/812a47ea-75f8-4f15-a0ff-39675414c746">
+<img src="https://github.com/Krupaparmar30/exam_e_commerce/assets/149374671/aed84799-4655-4ccf-aaed-7678bc9ea104"width=22% height=35%>
+<img src="https://github.com/Krupaparmar30/exam_e_commerce/assets/149374671/b1267a49-54e2-4d37-ac76-8eb96351126d"width=22% height=35%>
+<img src="https://github.com/Krupaparmar30/exam_e_commerce/assets/149374671/812a47ea-75f8-4f15-a0ff-39675414c746"width=22% height=35%>
 
 
 </P>
