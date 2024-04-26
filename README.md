@@ -1,4 +1,4 @@
-![Screenshot_20240426_154434](https://github.com/Krupaparmar30/exam_e_commerce/assets/149374671/e1c21b4d-0d76-4f89-a4a5-b4fa1d089e8c)# exam_e_commerce
+# exam_e_commerce
 
 
 <P>
